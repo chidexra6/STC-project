@@ -13,6 +13,26 @@ Compare two studies, I'm good at sports. I'm a fast runner and I also love athle
         <p>I am a very adventurous person to and like to take the risk. I like to do creative things beside doing old stuff again and again. Learning new things is one thing which I always enjoy. I always update myself with the news. Along with this I am an omnivert, on seeing a new person I'd exhibit the characteristic of an introvert at first, then later an extrovert. I have a larger percentage of the introverts characteristics than the extroverts which helps me show a right attitude to work.</p>
       <h2>My weakness</h2>
       <p>Does every man have a weakness, so have I also. I am a little bit lazy at some places which I do not like. I'm always shy when it comes to facing a crowd I have not faced before. I spend a lot of time playing video games during my free times which is not a good habit, but I try my best to overcome my weaknesses.</p>
+      <h2>My ambition in life</h2>
+      <p>Everybody has an ambition in life. Aim or ambition is the inner aspiration of Man. No man can do anything in the world without aim. So all of us should be very determined about our aim in life.</p>
+      <p>Without good career planning, right from the start, one can't be on the right track. One has to set the goals in accordance with his or her broad career goals.</p>
+      <p>I always wanted to go to India to study medicine, but looking at the financial status of my family I had to drop that dream for now and go for my passion I want to become a computer expert which has led me to taking courses on computer from coursera. I know that I will be a qualified computer expert and I will make sure I am sincere in it.</p>
+      <h2>Conclusions</h2>
+      <p>These are all the things which expresses me. Though nobody can be described in a few sets of sentence. One needs to have yet command of oneself before going to write something about his life. life is meant to be lived avidly and with visualisation to do good for your fellow beings. keeping this aim in mind, I have always desire to serve and affect people's life in whatever capacity I find myself.<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
